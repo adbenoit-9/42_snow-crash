@@ -2,9 +2,7 @@ scp -P 4242 level09@192.168.56.101:token .
 
 chmod 777 token
 
-gcc level09/Ressources/decode.c
-
-./a.out `cat token`
+gcc level09/Ressources/decode.c; ./a.out `cat token`
 code token: f4kmm6p|=�p�n��DB�Du{��
 decode token: f3iji1ju5yuevaus41q1afiuq
 

