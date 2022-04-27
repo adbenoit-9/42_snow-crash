@@ -1,4 +1,0 @@
-strings level07
-on peut voir qu'il utilise la variable environment LOGNAME
-export LOGNAME="\`getflag\`"
-./level07

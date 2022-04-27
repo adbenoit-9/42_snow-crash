@@ -1,7 +1,0 @@
-scp -P 4242 level02@192.168.56.101:level02.pcap .
-
-wireshark
-Analyze->follow-tcp stream
-Password: ft_wandrNDRelL0L
-
-nonpritable char = char 0x7f (del)
