@@ -24,6 +24,7 @@ $ scp -P 4242 level02@192.168.56.101:level02.pcap .
         - follow
             - TCP stream
     - show data as: Hex Dump
+    
 nonpritable char = char 0x7f (del)
 
 Password: ft_wandrNDRelL0L
