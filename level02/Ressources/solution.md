@@ -6,9 +6,15 @@ $ scp -P 4242 level02@192.168.56.101:level02.pcap .
 ```
 
 ## step 2 : read the pcap file with wireshark
-- install wireshark
+- install wireshark on a VM
+```
+$ sudo add-apt-repository ppa:wireshark-dev/stable
+$ sudo apt-get update
+$ sudo apt-get install wireshark
+$ sudo wireshark
+```
 
-- in wireshark: Analyze -> follow-tcp stream
+- in wireshark: Analyze -> follow-TCP stream
 
 Password: ft_wandrNDRelL0L
 nonpritable char = char 0x7f (del)
