@@ -17,5 +17,5 @@ nonpritable char = char 0x7f (del)
 ```
 $ su flag03
 $ getflag
-Here is your token : kooda2puivaav1idi4f57q8iq
+Check flag.Here is your token : kooda2puivaav1idi4f57q8iq
 ```

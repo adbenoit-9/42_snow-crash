@@ -5,6 +5,7 @@
 $ ./level08 token
 You may not access 'token'
 ```
+
 ## step 2 : analyze level08
 ```
 $ strings level08

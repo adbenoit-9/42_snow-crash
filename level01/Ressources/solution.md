@@ -1,11 +1,17 @@
 # Level 01
 
-## step 1 : extract passwd from SnowCrash
+## step 1 : try things
+```
+$ cat /etc/passwd | grep flag01
+flag01:42hDRfypTqqnw:3001:3001::/home/flag/flag01:/bin/bash
+```
+
+## step 2 : extract passwd from SnowCrash
 ```
 $ scp -P 4242 level01@192.168.56.101:/etc/passwd .
 ```
 
-## step 2 : crack the password with john
+## step 3 : crack the password with john
 - install john:
 ```
 $ sh utils/install_john.sh
@@ -21,7 +27,7 @@ flag01:abcdefg:3001:3001::/home/flag/flag01:/bin/bash
 ```
 password : abcdefg
 
-## step 3 : get level02 password
+## step 4 : get level02 password
 ```
 $ su flag01
 $ getflag

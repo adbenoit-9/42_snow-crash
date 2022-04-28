@@ -14,12 +14,13 @@ cdiiddwpgswtgt
 ```
 
 ## step 3 : decode token
-dcode.fr -> chiffre ROT
+https://www.dcode.fr/
+*chiffre ROT*
 decode token : nottoohardhere
 
 ## step 4 : get level01 password
 ```
 $ su flag00
 $ getflag
-Here is your token : x24ti5gi3x0ol2eh4esiuxias
+Check flag.Here is your token : x24ti5gi3x0ol2eh4esiuxias
 ```

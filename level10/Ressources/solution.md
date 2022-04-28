@@ -4,8 +4,10 @@
 
 ## step 2 : find host
 ```
-$ ifconfig 
+$ ifconfig
+...
 192.168.56.1
+...
 ```
 conversion:
 192 * 2^24 + 168  * 2^16 + 56 * 2^8 + 1 = 3232249857
