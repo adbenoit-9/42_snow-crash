@@ -5,15 +5,15 @@
 $ ./level09 abcd
 aceg
 ```
-Conclusion : level09 code token
-Create the decoder : decoder.c
+Conclusion : level09 encrypted token
+Create the decrypter : decoder.c
 
 ## step 1 : extract token from SnowCrash
 ```
 $ scp -P 4242 level09@192.168.56.101:token .
 ```
 
-## step 2 : decode token
+## step 2 : decrypt token
 ```
 $ chmod 777 token
 $ cat token

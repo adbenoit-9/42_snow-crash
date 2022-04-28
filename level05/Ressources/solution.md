@@ -30,7 +30,7 @@ done
 $ echo 'getflag > /tmp/flag.out' > /opt/openarenaserver/test.sh
 ```
 
-- wait max 2minutes for cron to run the script
+- wait max 2 minutes for cron to run the script
 
 - read the output
 ```

@@ -10,9 +10,9 @@ You may not access 'token'
 ```
 $ strings level08
 ```
-we understand that level blocks access to all files that include the word token.
+we understand that level stop access to all files including the word token.
 
-## step 3 : bind token
+## step 3 : create a sym link to token
 ```
 $ ln -s /home/user/level08/token /tmp/flag08
 $ ./level08 /tmp/flag08

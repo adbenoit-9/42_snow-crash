@@ -14,7 +14,7 @@ $ scp -P 4242 level01@192.168.56.101:/etc/passwd .
 ## step 3 : crack the password with john
 - install john:
 ```
-$ sh utils/install_john.sh
+$ sh install_john.sh
 ```
 
 - run john

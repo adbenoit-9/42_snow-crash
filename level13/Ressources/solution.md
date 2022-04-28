@@ -7,7 +7,7 @@ $ strings level13
 We understand that we must modify the UID during the execution of the program.
 
 ## step 2 : modify UID
-*use debugger gdb*
+*use gdb*
 ```
 $ gdb level13
 ```
@@ -15,8 +15,10 @@ $ gdb level13
 - display main code in asm
 ```
 (gdb) disas main
+   ...
    0x08048595 <+9>:     call   0x8048380 <getuid@plt>
    0x0804859a <+14>:    cmp    $0x1092,%eax
+   ...
 ```
 
 - modify eax

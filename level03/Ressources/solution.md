@@ -4,7 +4,7 @@
 ```
 $ strings level03
 ```
-we can see that level03 uses the echo command
+we can see that level03 use the echo command
 
 ## step 2 : create a fake echo command that will run getflag
 ```
