@@ -14,8 +14,8 @@ cdiiddwpgswtgt
 ```
 
 ## step 3 : decode token
-https://www.dcode.fr/
-*chiffre ROT*
+https://www.dcode.fr/\
+*chiffre ROT*\
 decode token : nottoohardhere
 
 ## step 4 : get level01 password
