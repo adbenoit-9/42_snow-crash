@@ -9,5 +9,12 @@ This project is an introduction to computer security. Snow Crash will make you d
 
 *In collaboration with [gmaris][1] and [thsembel][2] 🔥*
 
+## Usage
+```
+$ git clone https://github.com/adbenoit-9/42_snow-crash.git
+$ cd 42_snow-crash
+$ cd [levelXX]
+```
+\
 [1]: https://github.com/gmaris42
 [2]: https://github.com/Gropopus
