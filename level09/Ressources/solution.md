@@ -5,7 +5,7 @@
 $ ./level09 abcd
 aceg
 ```
-Conclusion : level09 encrypted token
+Conclusion : level09 encrypted token\
 Create the decrypter : decoder.c
 
 ## step 1 : extract token from SnowCrash
