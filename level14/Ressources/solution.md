@@ -24,7 +24,7 @@ Starting program: /bin/getflag
 You should not reverse this
 [Inferior 1 (process 2095) exited with code 01]
 ```
-1- deblock the debbuger
+1- deblock the debbuger\
 2- change UID
 
 ```
