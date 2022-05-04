@@ -14,7 +14,7 @@ cdiiddwpgswtgt
 ```
 
 ## step 3 : decode token
-https://www.dcode.fr/\
+https://www.dcode.fr/ \
 *chiffre ROT*\
 decode token : nottoohardhere
 
